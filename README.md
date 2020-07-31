@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Engineer who is passionate about making better, performant, maintainable WEB
+Engineer who is passionate about making web better and performant
 Experties in JavaScript, ES6, Node.Js, Java and fullstack development
 
 - 💬 Ask me about: Topics in Web World
