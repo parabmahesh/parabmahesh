@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Engineer who is passionate about making web better and performant
-Experties in JavaScript, ES6, Node.Js, React, Next.js Java and fullstack development
+Engineer who is passionate on making web better, making it performant
+Experties in front end and full stack in area of Java Script, ES6, Node.Js, React, Java
 
 - 💬 Ask me about: Topics in Web World
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/maheshparab2040/)
